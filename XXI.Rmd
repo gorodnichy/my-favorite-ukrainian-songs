@@ -14,38 +14,14 @@ knitr::include_graphics("c_jobim/cover-ShriJobim-part1.jpg")
 (1975)   
 <embed align="center" src="https://www.youtube.com/embed/n81JA6xSbcs" width="300"></embed>  
 
-##  {-}
+## Колискова {-}
 
-<blockquote>
-<cite>
-Музыка: Слова: 
-</cite>
 <pre>
 
 
-Колискова
-Слова: Сергій ЖаданМузика: Лінія МаннергеймаВиконує: Лінія Маннергейма, Каша СальцоваДо мого пісенника: 1 2 3
+Слова: Сергій Жадан	
+Музика:  Каша Сальцова
 
- Записи, mp3, ноти  Відео, кліпи 1  Друк
-
-
- Місяць над містом схожий на обруч, Пахне тишею і весною... Люблю засинати, коли ти поруч, Люблю прокидатись, коли ти зі мною! А ось тебе немає - і небо темне, І світло ховається, ніби лисиця... Люблю лежати і думати про тебе, Лежати і думати, що тобі сниться... Приспів: Повітря таке легке навесні, Ніжність буває такою простою, Якщо ти будеш говорити вві сні, Я буду теж говорити з тобою! Повітря таке легке навесні... Повітря таке легке навесні... Я знаю все про твої пригоди, Про все, що ти вмієш, і все, що ти знаєш... Люблю прокидатись, коли ти приходиш, Люблю відчувати, як ти засинаєш! В домі твоєму тихі кімнати, Я хочу, щоб з ними нічого не сталось! Я згоден і далі не засинати, Щоби тобі спокійно спалось... Приспів. Ніч ховає місяця лампу, І небо втомлене, і заснуле, Лежить, поклавши вухо на лапу, Ніби пес, якого забули... Все, що люблю, і все, що знаю, Нині ховає повітря тепле... Але в тому місті, де я засинаю, Завжди буде місце для тебе!.. Приспів.
-
-
-
-
-Колискова
-
-Слова: Сергій Жадан	Музика: Лінія Маннергейма
-Виконує: Лінія Маннергейма, Каша Сальцова
-До мого пісенника: 1 2 3
- Записи, mp3, ноти
- 
- Відео, кліпи 1
- 
- Друк
-
- 	
 Місяць над містом схожий на обруч,
 Пахне тишею і весною...
 Люблю засинати, коли ти поруч,
@@ -85,12 +61,6 @@ knitr::include_graphics("c_jobim/cover-ShriJobim-part1.jpg")
 
 Приспів.
 
-____________________________________
-
- 04:57     
-Акорди Intro/transition Em (g e g e) À (g e g e) Verse: À C Em Em À C Em Em ... Refrain: D C Em D C Em (G À
-
-
 Акорди
 
 Intro/transition
@@ -114,9 +84,43 @@ C
 Em
 (G À
 
-</pre>
-</blockquote>
+La lune ressemble à un cerceau sur la ville,
+Ça sent le silence et le printemps ...
+J'aime m'endormir quand tu es là,
+J'adore me réveiller quand tu es avec moi!
+Mais vous n'êtes pas là - et le ciel est sombre,
+Et la lumière se cache comme un renard ...
+J'aime m'allonger et penser à toi,
+Allongez-vous et pensez que vous rêvez ...
 
+Refrain:
+L'air est si léger au printemps,
+La tendresse est si simple,
+Si vous parlez dans un rêve,
+Je te parlerai aussi!
+L'air est si léger au printemps ...
+L'air est si léger au printemps ...
+
+Je sais tout de tes aventures,
+Tout ce que vous pouvez faire et tout ce que vous savez ...
+J'aime me réveiller quand tu viens,
+J'aime me sentir endormi!
+Chambres calmes dans votre maison,
+Je ne veux rien leur arriver!
+J'accepte de ne plus m'endormir,
+Pour que vous dormiez paisiblement ...
+
+Refrain.
+
+La nuit cache la lampe de la lune,
+Et le ciel est fatigué et endormi,
+Allongé avec son oreille sur sa patte,
+Comme un chien oublié ...
+Tout ce que j'aime et tout ce que je sais
+Cache maintenant l'air chaud ...
+Mais dans la ville où je m'endors,
+Il y aura toujours une place pour vous! ..
+</pre>
 
 <audio controls><source src="http://www.ivim.ca/dg/jobim/media/desafinado-w-joao.mp3"></audio>
 
